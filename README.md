@@ -1,7 +1,7 @@
 # **Ongoing Web Application Project**  
 **Built with Laravel 11 & Vuexy Theme**  
 
-This project is a feature-rich, responsive web application designed to provide seamless user interaction and management. Built using **Laravel 11** and incorporating the sleek **Vuexy Theme**, it ensures a modern, intuitive, and smooth user experience. Below is a detailed overview of the current and upcoming features:
+This project is a feature-rich, responsive web application designed to provide seamless user interaction and management. Built using **Laravel 10** and incorporating the sleek **Vuexy Theme**, it ensures a modern, intuitive, and smooth user experience. Below is a detailed overview of the current and upcoming features:
 
 ---
 
@@ -39,16 +39,10 @@ Users can **create professional resumes** and **design custom templates** throug
 
 ## **Technology Stack**  
 
-- **Backend:** Laravel 11  
+- **Backend:** Laravel 10  
 - **Frontend:** Vuexy Theme  
 - **Database:** MySQL  
 - **Notifications:** Toastr / Laravel Echo  
 - **Version Control:** GitHub  
 
----
 
-## **How to Get Started**
-
-1. **Clone the repository**:  
-   ```bash
-   git clone https://github.com/Israrminhas1/your-project-repo.git
